@@ -89,3 +89,15 @@ To evaluate the generated insights, run the following command:
 ## Result
 
 <div align='center'><img src='images/result.png' style='width: 40em;'></div>
+
+## BibTeX
+
+    @misc{seo2025mtraignovelbenchmarkevaluation,
+        title={MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables}, 
+        author={Kwangwook Seo and Donguk Kwon and Dongha Lee},
+        year={2025},
+        eprint={2502.11735},
+        archivePrefix={arXiv},
+        primaryClass={cs.CL},
+        url={https://arxiv.org/abs/2502.11735}, 
+    }
