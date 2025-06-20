@@ -92,7 +92,7 @@ To evaluate the generated insights, run the following command:
 
 ## BibTeX
 
-    @misc{seo2025mtraignovelbenchmarkevaluation,
+    @misc{seo2025mtraig,
         title={MT-RAIG: Novel Benchmark and Evaluation Framework for Retrieval-Augmented Insight Generation over Multiple Tables}, 
         author={Kwangwook Seo and Donguk Kwon and Dongha Lee},
         year={2025},
