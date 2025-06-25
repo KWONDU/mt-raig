@@ -8,7 +8,7 @@ To bridge these gaps, we propose **MT-RAIG Bench**, design to evaluate systems o
 
 ## MT-RAIG Bench
 
-MT-RAIG BENCH is the first largescale benchmark for retrieval-augmented insight generation over multiple tables.
+MT-RAIG Bench is the first largescale benchmark for retrieval-augmented insight generation over multiple tables.
 
 **Data Fields**
 
@@ -76,7 +76,7 @@ MT-RAIG BENCH is the first largescale benchmark for retrieval-augmented insight 
 
 ## MT-RAIG Eval
 
-MT-RAIG EVAL is a novel decomposition-based evaluation framework that enables finer distinctions in assessing the quality of the long-form outputs.
+MT-RAIG Eval is a novel decomposition-based evaluation framework that enables finer distinctions in assessing the quality of the long-form outputs.
 
 <div align='center'><img src='images/mt_raig_eval.png' style='width: 40em;'></div>
 
